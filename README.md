@@ -51,6 +51,15 @@ The project relies on the following dependencies:
 
 Contributions to the project are welcome. If you find any issues or have suggestions for improvements, please open an issue or create a pull request with your changes.
 
+## Screenshots
+
+<div style="display: flex;">
+    <img src="Music%20App/1.jpg" width="200" style="margin-right: 20px;">
+    <img src="Music%20App/2.jpg" width="200" style="margin-right: 20px;">
+    <img src="Music%20App/3.jpg" width="200" style="margin-right: 20px;">
+    <img src="Music%20App/4.jpg" width="200">
+</div>
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the terms of the license.
